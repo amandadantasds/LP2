@@ -1,1 +1,1 @@
-# LP2
+Códigos desenvolvidos nas aulas de linguagem de programação 2.
